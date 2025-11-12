@@ -1,3 +1,5 @@
+202ab1c Merge pull request #3 from jesslynperdana/task_2.1
+cf62ec5 Completed Task 2.1
 bd1d953 Completed Task 1
 3e94968 Merge pull request #2 from jesslynperdana/task_1.2
 28070f4 Completed Task 1.2
