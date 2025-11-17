@@ -1,3 +1,4 @@
+aa1317f Completed Task 2 and all tasks in mini assignment, updated log.txt
 107dabb Merge pull request #6 from jesslynperdana/task_2.4
 31eb966 Completed Task 2.4
 ec26a5c Merge pull request #5 from jesslynperdana/task_2.3
